@@ -1,6 +1,7 @@
 #!/bin/bash
-mkdir .my-python3
-cd .my-python3
+mkdir ~/.my-python3
+cd ~/.my-python3
+exit
 wget https://www.python.org/ftp/python/3.7.4/Python-3.7.4.tgz
 tar zxvf Python-3.7.4.tgz
 cd Python-3.7.4
